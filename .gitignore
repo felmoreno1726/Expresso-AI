@@ -1,0 +1,28 @@
+# data & model artifacts (never commit dataset videos, labels, or weights)
+data/
+*_dataset/[0-9]*
+full_dataset/
+one_person_face/
+pre-trained-weights/
+weights/
+*.pth
+*.pth.tar
+
+# interpretability outputs
+attributions/
+interpretation/
+
+# environment & local config
+environment_config.py
+env/
+*venv*
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# logs & misc
+runs/
+*tensorboard*
+*.log
+*.swp
+.DS_Store

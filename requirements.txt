@@ -1,0 +1,27 @@
+wheel
+#python general
+ipykernel
+tqdm
+frozendict
+#pillow==5.3.0
+pillow==6.2.0
+#pillow
+#numerical
+numpy==1.19.0
+pandas
+torch==1.2.0
+captum==0.2.0
+torchvision==0.2.1
+pytorch-ignite==0.3.0
+facenet-pytorch
+scipy==1.1.0
+sklearn
+#cv
+sk-video
+opencv-python
+face-alignment
+imutils
+#visualization
+tensorboard
+future
+seaborn
