@@ -23,7 +23,7 @@ That a model supervised only on a depression score reconstructs known affective 
 
 > F. Moreno, S. Alghowinem, H. W. Park, and C. Breazeal, "Expresso-AI: An Explainable Video-Based Deep Learning Models for Depression Diagnosis," *2023 11th International Conference on Affective Computing and Intelligent Interaction (ACII)*, IEEE, 2023, pp. 1–8. doi: [10.1109/ACII59096.2023.10388143](https://doi.org/10.1109/ACII59096.2023.10388143)
 
-<!-- arXiv: link to be added once the preprint is posted -->
+**Open-access preprint:** [arXiv:2606.25606](https://arxiv.org/abs/2606.25606)
 
 ```bibtex
 @inproceedings{moreno2023expressoai,
@@ -33,7 +33,10 @@ That a model supervised only on a depression score reconstructs known affective 
   pages     = {1--8},
   year      = {2023},
   publisher = {IEEE},
-  doi       = {10.1109/ACII59096.2023.10388143}
+  doi       = {10.1109/ACII59096.2023.10388143},
+  eprint        = {2606.25606},
+  archivePrefix = {arXiv},
+  primaryClass  = {cs.CV}
 }
 ```
 
